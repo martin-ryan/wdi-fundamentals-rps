@@ -106,7 +106,7 @@ function playToFive() {
             computerWins += 1;
         }
 
-        /* ask if the following will "break" out of the switch or break out of the "playToFive" function entirely
+        /* ask if the following will "break" out of the switch only or break out of the "playToFive" function entirely
         switch (winner) {
             case "player":
                 playerWins += 1
